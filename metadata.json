@@ -1,0 +1,6 @@
+{
+  "name": "MẦM TRÍ TUỆ AI",
+  "description": "Ứng dụng MẦM TRÍ TUỆ AI cá nhân hóa học tập và hỗ trợ sớm học sinh gặp khó khăn trong môn Tiếng Việt và Toán lớp 1 - Trường TH Hoà Sơn, Đà Nẵng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
